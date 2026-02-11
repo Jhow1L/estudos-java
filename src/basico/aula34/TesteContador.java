@@ -1,4 +1,4 @@
-package cursojavabasico.aula34;
+package basico.aula34;
 
 public class TesteContador {
     public static void main(String[] args) {

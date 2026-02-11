@@ -1,4 +1,4 @@
-package cursojavabasico.aula13;
+package basico.aula13;
 import java.util.Scanner;
 
 public class ex13 {

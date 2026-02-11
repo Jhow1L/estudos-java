@@ -1,11 +1,11 @@
-package cursojavabasico.aula74;
+package intermediario.aula74;
 
 public class ThreadSemaforo implements Runnable {
 
-    private final loaine.cursojavabasico.aula74.Semaforo semaforo;
+    private final Semaforo semaforo;
     private boolean corMudou;
 
-    ThreadSemaforo(loaine.cursojavabasico.aula74.Semaforo semaforo) {
+    ThreadSemaforo(Semaforo semaforo) {
         this.semaforo = semaforo;
         this.corMudou = false;
     }

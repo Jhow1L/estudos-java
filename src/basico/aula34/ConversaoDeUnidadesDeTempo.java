@@ -1,4 +1,4 @@
-package cursojavabasico.aula34;
+package basico.aula34;
 
 public class ConversaoDeUnidadesDeTempo {
     public static double minutosParaSegundos(double minutos){

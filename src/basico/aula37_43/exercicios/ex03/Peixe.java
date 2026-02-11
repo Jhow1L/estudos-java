@@ -1,4 +1,4 @@
-package cursojavabasico.aula37_43.exercicios.ex03;
+package basico.aula37_43.exercicios.ex03;
 
 public class Peixe extends loaine.cursojavabasico.aula37_43.exercicios.ex03.Animal {
     private String caracteristicas;

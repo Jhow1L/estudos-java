@@ -1,4 +1,4 @@
-package cursojavabasico.aula12;
+package basico.aula12;
 
 import java.util.Scanner;
 

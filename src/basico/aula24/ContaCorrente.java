@@ -1,4 +1,4 @@
-package cursojavabasico.aula24;
+package basico.aula24;
 
 public class ContaCorrente {
 

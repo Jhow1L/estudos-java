@@ -1,4 +1,4 @@
-package cursojavabasico.aula47_52;
+package basico.aula47_52;
 
 public class Contato {
     private static int contador = 0;

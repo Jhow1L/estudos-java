@@ -1,4 +1,4 @@
-package cursojavabasico.aula37_43.exercicios.ex03;
+package basico.aula37_43.exercicios.ex03;
 
 public class Main {
     public static void main(String[] args) {

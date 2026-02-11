@@ -1,4 +1,4 @@
-package cursojavabasico.aula44_46.ex01;
+package basico.aula44_46.ex01;
 
 public class Cilindro extends loaine.cursojavabasico.aula44_46.ex01.Figura3D {
     private double raio;

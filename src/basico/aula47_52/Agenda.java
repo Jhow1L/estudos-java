@@ -1,4 +1,4 @@
-package cursojavabasico.aula47_52;
+package basico.aula47_52;
 
 public class Agenda {
     private loaine.cursojavabasico.aula47_52.Contato contatos[];

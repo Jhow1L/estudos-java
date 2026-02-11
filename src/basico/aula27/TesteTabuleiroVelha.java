@@ -1,4 +1,4 @@
-package cursojavabasico.aula27;
+package basico.aula27;
 
 public class TesteTabuleiroVelha {
     public static void main(String[] args) {

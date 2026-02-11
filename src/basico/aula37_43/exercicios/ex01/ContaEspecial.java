@@ -1,4 +1,4 @@
-package cursojavabasico.aula37_43.exercicios.ex01;
+package basico.aula37_43.exercicios.ex01;
 
 public class ContaEspecial extends loaine.cursojavabasico.aula37_43.exercicios.ex01.ContaBancaria {
     private double limite;

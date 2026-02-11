@@ -1,4 +1,4 @@
-package cursojavabasico.aula28_33;
+package basico.aula28_33;
 
 public class Lampada {
 

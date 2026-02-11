@@ -1,4 +1,4 @@
-package cursojavabasico.aula20;
+package basico.aula20;
 
 import java.util.Random;
 

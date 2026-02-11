@@ -1,4 +1,4 @@
-package cursojavabasico.aula36_2;
+package basico.aula36_2;
 
 public class Aluno {
     private String nome;

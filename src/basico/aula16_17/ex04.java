@@ -1,4 +1,4 @@
-package cursojavabasico.aula16_17;
+package basico.aula16_17;
 
 public class ex04 {
     public static void main(String[] args) {

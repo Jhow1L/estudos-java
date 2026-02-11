@@ -1,4 +1,4 @@
-package cursojavabasico.aula37_43.exercicios.ex02;
+package basico.aula37_43.exercicios.ex02;
 
 public class PessoaFisica extends loaine.cursojavabasico.aula37_43.exercicios.ex02.Contribuinte {
     private String cpf;

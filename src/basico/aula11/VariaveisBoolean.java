@@ -1,4 +1,4 @@
-package cursojavabasico.aula11;
+package basico.aula11;
 
 public class VariaveisBoolean {
     static void main() {

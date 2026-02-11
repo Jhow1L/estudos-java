@@ -1,0 +1,14 @@
+package intermediario.aula56;
+
+public class Teste {
+    public static void main(String[] args) {
+
+        OperacoesMatematicas[] operacoes = OperacoesMatematicas.values();
+
+        double x = 2, y = 3;
+
+        for (OperacoesMatematicas operacao : operacoes){
+            System.out.printf("Operação: %.2f %s %1.2f | Resultado: %f\n", x, operacao, y, operacao.executarOperacao(x, y));
+        }
+    }
+}

@@ -1,4 +1,4 @@
-package cursojavabasico.aula74;
+package intermediario.aula74;
 
 public enum CoresSemaforo {
     VERDE(2000), AMARELO(1000), VERMELHO(4000);

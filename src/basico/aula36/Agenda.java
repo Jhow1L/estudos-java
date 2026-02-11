@@ -1,4 +1,4 @@
-package cursojavabasico.aula36;
+package basico.aula36;
 
 
 public class Agenda {

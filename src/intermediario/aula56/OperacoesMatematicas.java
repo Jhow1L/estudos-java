@@ -1,4 +1,4 @@
-package cursojavabasico.aula56;
+package intermediario.aula56;
 
 public enum OperacoesMatematicas {
 
